@@ -4,11 +4,9 @@ Welcome to my page!
 
 <p>
 I'm <b>Ayoub Milat</b>, an Electronics Hardware Engineer based in <b>France</b>.
-
-
+  
 I'm currently an <b>IoT Engineer Apprentice</b> at Mines Saint-Étienne and hold a
 <b>Master's degree in Embedded Systems and Telecommunications</b> from Université Toulouse III – Paul Sabatier.
-
 
 I'm looking for a <b>Junior Electronics Engineer</b> position in a full-time contract.
 </p>
@@ -17,7 +15,6 @@ I'm looking for a <b>Junior Electronics Engineer</b> position in a full-time con
 
 <p>
 My main interests are <b>hardware design, PCB design, embedded systems, IoT and embedded AI</b>.
-
 
 I work on the design and integration of advanced electronic systems, from schematic design
 and PCB layout to high-speed interfaces, power management, firmware and system validation.
