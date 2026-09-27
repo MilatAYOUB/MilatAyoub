@@ -81,16 +81,19 @@ and PCB layout to high-speed interfaces, power management, firmware and system v
 <ul>
 <li>
 <b>Embedded Microelectronics & AI – OTD Tech</b>
+  
 Embedded night-vision camera, Qualcomm QCS6490P, high-speed interfaces,
 advanced multilayer PCB design and embedded AI.
 </li>
 <li>
 <b>Microelectronics & Hardware Design – OTD Tech</b>
+  
 Multilayer PCB design, SoC integration, power management, wireless
 communications, high-speed routing and SPICE simulations.
 </li>
 <li>
 <b>Micro- and Nanofabrication – AIME CNRS</b>
+  
 Fabrication and characterization of photodiodes in an ISO 5 cleanroom
 and analysis of semiconductor device performance.
 </li>
